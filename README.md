@@ -93,22 +93,14 @@ Big-O ကို ကျွန်တော်တို့ အဓိကသုံး
   
 
 | အခေါ်အဝေါ် |သင်္ကေတ |အဆိုး/အကောင်း/အကြိုး/အကြောင်း|
-
 |--|--|--|
-
 | Constant |O(1) |AWESOME!!|
-
 |Logarithmic|O(log N)|GREAT!|
-
 |Linear|O(N)|OKAY|
-
 |Linearithmic|O(N log N)|UGH...|
-
 |Polynomial|O(N ^ 2)|SHITTY|
-
 |Exponential|O(2 ^ N)|HORRIBLE|
-
-|Factorial|O(N!)|WTF
+|Factorial|O(N!)|WTF|
 
   
 
