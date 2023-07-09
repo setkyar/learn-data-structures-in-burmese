@@ -1,8 +1,10 @@
 # learn-data-structures-in-burmese (မြန်မာဘာသာဖြင့် data structure ကိုလေ့လာမယ်)
 
-  
 
-## Data structure ဆိုတာဘာလဲ
+မြန်မာဘာသာဖြင့်လွယ်ကူစွာလေ့လာနိုင်ရန်အတွက် စီလျှော်အောင်ဘာသာပြန်ပေးထားတာဘဲဖြစ်ပါတယ်။ မှားယွှင်းလွှဲချော်နေတာတွေ့လျှင် PR ဖွင့်ပီးကူညီပြင်ဆင်ပေးနိုင်ပါတယ်။ Data structure ကိုစိတ်ဝင်စားတဲ့အသိမိတ်ဆွေတွေကိုလဲ ဒီ repo ကိုပြန်လည်ဝေမျှနိုင်ပါတယ်။
+
+
+# Data structure ဆိုတာဘာလဲ
 
   
 
@@ -18,7 +20,7 @@ Wikipeda မှာတော့ [Data Structure](https://en.wikipedia.org/wiki/Da
 
   
 
-### Algorithms
+## Algorithms
 
   
 
@@ -56,7 +58,7 @@ Quick Sort, Shell Sort, Timsort, Bucket Sort, Radix Sort, ...
 
   
 
-#### Big-O Notation
+## Big-O Notation
 
   
 
@@ -140,3 +142,7 @@ Data structures နှင့်ဆို ခင်ဗျားလုပ်ဆေ
                   Array     AWESOME!!    OKAY         OKAY         OKAY
             Linked List     OKAY         OKAY         AWESOME!!    AWESOME!!
      Binary Search Tree     GREAT!       GREAT!       GREAT!       GREAT!
+
+နောက်တဆင့်ဆက်သွားကြမယ်ဆိုရင် တချို့ actions တွေက average performance နှင့် worst case scenario performance မှာ တမျိုးစီမတူတာမျိုးရှိတယ်။ (Average မှာအရမ်းမြန်ပီး worst case မှာအရမ်းနှေးတာမျိုးပေါ့)
+
+Perfect data structure ဆိုတာမရှိပါဘူး... ကိုယ့် data ပေါ်မူတည်ပီးကိုယ်ဘာလုပ်ချင်တယ်ဆိုတဲ့ပေါ်မူတည်ပီးတော့ ရွေးကြရတာပါ။ ဒါကြောင့်မလို့ မတူညီတဲ့ ယေဘူယျ data structure တွေကိုသိထားဖို့လိုတာပါ။ ဒါမှခင်ဗျားရွေးချယ်နိုင်မှာကိုး။
